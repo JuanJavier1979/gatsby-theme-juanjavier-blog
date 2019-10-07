@@ -1,0 +1,28 @@
+{
+  "name": "gatsby-theme-juanjavier-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JuanJavier1979/gatsby-theme-juanjavier-blog.git",
+  "author": "JuanJavier1979 <jjmrestituto@gmail.com>",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-theme"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "develop": "gatsby develop"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.15.28",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  },
+  "devDependencies": {
+    "gatsby": "^2.15.29",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}

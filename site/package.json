@@ -1,0 +1,17 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "develop": "gatsby develop"
+  },
+  "dependencies": {
+    "gatsby": "^2.15.29",
+    "gatsby-theme-juanjavier-blog": "1.0.0",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
