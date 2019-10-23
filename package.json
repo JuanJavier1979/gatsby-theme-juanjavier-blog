@@ -1,5 +1,9 @@
 {
+  "name": "gatsby-theme-juanjavier-blog-workspaces",
+  "version": "1.0.0",
   "private": true,
+  "author": "JuanJavier1979 <jjmrestituto@gmail.com>",
+  "license": "MIT",
   "workspaces": [
     "gatsby-theme-juanjavier-blog",
     "site"
